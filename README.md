@@ -1,5 +1,5 @@
 # CathyReadings
-Some of my useless obsessions.
+Some of my useless curiosities and obsessions.
 
 [altruism](altruism.md)
 
