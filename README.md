@@ -1,5 +1,5 @@
-# CathysNoteBook
-We are part of everything we've read.
+# CathyReadings
+Some of my useless obsessions.
 
 [altruism](altruism.md)
 
